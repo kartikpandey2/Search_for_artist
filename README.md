@@ -2,7 +2,7 @@ This project is created with [React](https://github.com/facebook/create-react-ap
 
 ## Install Dependencies 
 
-Run `yarn` or npm install
+Run `yarn` or `npm install`
 
 
 ## How To Run Project
